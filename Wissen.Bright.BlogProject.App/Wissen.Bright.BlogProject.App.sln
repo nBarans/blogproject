@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domains", "Domains", "{0C89ED90-84BF-4BB0-8254-3C45CFF02B63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructures", "Infrastructures", "{4BEA5B3C-D339-465C-A6E6-705163D5981A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{55BE61A1-3775-4CED-9AD2-CF955734F402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wissen.Bright.BlogProject.App.Entity", "Wissen.Bright.BlogProject.App.Entity\Wissen.Bright.BlogProject.App.Entity.csproj", "{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wissen.Bright.BlogProject.App.DataAccess", "Wissen.Bright.BlogProject.App.DataAccess\Wissen.Bright.BlogProject.App.DataAccess.csproj", "{EF06512C-1BE1-4D22-83D1-F5E71FF09F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wissen.Bright.BlogProject.App.Service", "Wissen.Bright.BlogProject.App.Service\Wissen.Bright.BlogProject.App.Service.csproj", "{47868A74-75E3-401E-962B-2E4BF924C03F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wissen.Bright.BlogProject.App.WebMvcUI", "Wissen.Bright.BlogProject.App.WebMvcUI\Wissen.Bright.BlogProject.App.WebMvcUI.csproj", "{10BC6D7E-037B-4918-9910-2775C79AB84A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF06512C-1BE1-4D22-83D1-F5E71FF09F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF06512C-1BE1-4D22-83D1-F5E71FF09F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF06512C-1BE1-4D22-83D1-F5E71FF09F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF06512C-1BE1-4D22-83D1-F5E71FF09F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47868A74-75E3-401E-962B-2E4BF924C03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47868A74-75E3-401E-962B-2E4BF924C03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47868A74-75E3-401E-962B-2E4BF924C03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47868A74-75E3-401E-962B-2E4BF924C03F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10BC6D7E-037B-4918-9910-2775C79AB84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BC6D7E-037B-4918-9910-2775C79AB84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BC6D7E-037B-4918-9910-2775C79AB84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10BC6D7E-037B-4918-9910-2775C79AB84A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4EFF0899-7ADA-45C8-92C7-69DC93DD507F} = {0C89ED90-84BF-4BB0-8254-3C45CFF02B63}
+		{EF06512C-1BE1-4D22-83D1-F5E71FF09F59} = {4BEA5B3C-D339-465C-A6E6-705163D5981A}
+		{47868A74-75E3-401E-962B-2E4BF924C03F} = {4BEA5B3C-D339-465C-A6E6-705163D5981A}
+		{10BC6D7E-037B-4918-9910-2775C79AB84A} = {55BE61A1-3775-4CED-9AD2-CF955734F402}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5624087-02B3-4643-A292-6555A7164B40}
+	EndGlobalSection
+EndGlobal

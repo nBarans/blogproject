@@ -1,0 +1,525 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Wissen.Bright.BlogProject.App.WebMvcUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Wissen.Bright.BlogProject.App.WebMvcUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\about.html",
+      "PackagePath": "staticwebassets\\themes\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\blog3.html",
+      "PackagePath": "staticwebassets\\themes\\blog3.html"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\contact.html",
+      "PackagePath": "staticwebassets\\themes\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\themes\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\css\\contact.css",
+      "PackagePath": "staticwebassets\\themes\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\themes\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\css\\jquery.desoslide.css",
+      "PackagePath": "staticwebassets\\themes\\css\\jquery.desoslide.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\css\\single.css",
+      "PackagePath": "staticwebassets\\themes\\css\\single.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\css\\style.css",
+      "PackagePath": "staticwebassets\\themes\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\themes\\images\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\b4.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\b5.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\banner4.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\banner5.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\banner5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\left.png",
+      "PackagePath": "staticwebassets\\themes\\images\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\m1.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\m1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\m2.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\m2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\m3.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\m3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\m4.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\m4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\right.png",
+      "PackagePath": "staticwebassets\\themes\\images\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\t1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\t3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\t4.jpg",
+      "PackagePath": "staticwebassets\\themes\\images\\t4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\images\\top_up.png",
+      "PackagePath": "staticwebassets\\themes\\images\\top_up.png"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\themes\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\js\\easing.js",
+      "PackagePath": "staticwebassets\\themes\\js\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\js\\jquery-2.2.3.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\jquery-2.2.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\js\\jquery.desoslide.js",
+      "PackagePath": "staticwebassets\\themes\\js\\jquery.desoslide.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\js\\jquery.flexisel.js",
+      "PackagePath": "staticwebassets\\themes\\js\\jquery.flexisel.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\js\\modernizr.custom.min.js",
+      "PackagePath": "staticwebassets\\themes\\js\\modernizr.custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\themes\\js\\move-top.js"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\login.html",
+      "PackagePath": "staticwebassets\\themes\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\register.html",
+      "PackagePath": "staticwebassets\\themes\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\single.html",
+      "PackagePath": "staticwebassets\\themes\\single.html"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\w3layouts-license.txt",
+      "PackagePath": "staticwebassets\\themes\\w3layouts-license.txt"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\themes\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\themes\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\themes\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\themes\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\themes\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\themes\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\themes\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\themes\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\themes\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\themes\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\themes\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\themes\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\themes\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\themes\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nimetullah Baran\\source\\repos\\Asp.netcore MVC\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\themes\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Wissen.Bright.BlogProject.App.WebMvcUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Wissen.Bright.BlogProject.App.WebMvcUI.props",
+      "PackagePath": "build\\Wissen.Bright.BlogProject.App.WebMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Wissen.Bright.BlogProject.App.WebMvcUI.props",
+      "PackagePath": "buildMultiTargeting\\Wissen.Bright.BlogProject.App.WebMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Wissen.Bright.BlogProject.App.WebMvcUI.props",
+      "PackagePath": "buildTransitive\\Wissen.Bright.BlogProject.App.WebMvcUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
